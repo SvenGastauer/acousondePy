@@ -15,6 +15,8 @@ Currently there are 4 functions available:
 - read_multiple_MT() to read a list of MT files
 - acousonde() starts a GUI which allows you to convert slected MT files
 
+For some minimal examples have a look at the notebook subfolder.  
+
 A single Windows executable file of acousonde() which can be used without the need of any programming/scripting and does not require the user to have Python isnstalled can be obtained from (Sourceforge)[https://sourceforge.net/projects/acousonde2wav/].
 
 This software is free to use.
