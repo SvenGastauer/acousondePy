@@ -1,0 +1,25 @@
+,0
+totalhdrs,1
+abbrev   ,LoPower
+stationcode,SB
+title,TEST in air and in water * path +22.5 dB * fc 2323 Hz
+month,07
+day,29
+year,2020
+hours,21
+minutes,23
+seconds,25
+msec,000
+sampling_period,0.000163580368
+samplebits,16
+wordsize,2
+typemark,A
+swapping,S
+signing,S
+caltype,C
+calmin,-225453.67
+calmax,225446.79
+calunits,mPa
+recordsize,512
+sourcevers,2.6.2
+sourcesn,B003A041
