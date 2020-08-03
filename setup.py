@@ -8,9 +8,15 @@ Created on Fri Jul 31 17:35:08 2020
 
 from setuptools import setup
 
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
+
 setup(name='acousondePy',
       version='0.13',
       description='Read and plot Acousonde MT files',
+      long_description=long_description,
+      long_description_content_type='text/markdown',
       author='Sven Gastauer',
       url='https://github.com/SvenGastauer/acousondePy',
       download_url = 'https://github.com/user/acousondePy/archive/0.13.tar.gz',
