@@ -14,13 +14,13 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(name='acousondePy',
-      version='0.14',
+      version='0.15',
       description='Read and plot Acousonde MT files',
       long_description=long_description,
       long_description_content_type='text/markdown',
       author='Sven Gastauer',
       url='https://github.com/SvenGastauer/acousondePy',
-      download_url = 'https://github.com/user/acousondePy/archive/0.14.tar.gz',
+      download_url = 'https://github.com/user/acousondePy/archive/0.15.tar.gz',
       author_email='sgastauer@ucsd.edu',
       license='MIT',
       packages=['acousondePy'],
