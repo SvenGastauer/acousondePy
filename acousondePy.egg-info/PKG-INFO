@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: acousondePy
-Version: 0.1
+Version: 0.11
 Summary: Read and plot Acousonde MT files
 Home-page: https://github.com/SvenGastauer/acousondePy
 Author: Sven Gastauer
 Author-email: sgastauer@ucsd.edu
 License: MIT
-Download-URL: https://github.com/user/acousondePy/archive/0.1.tar.gz
+Download-URL: https://github.com/user/acousondePy/archive/0.11.tar.gz
 Description: UNKNOWN
 Keywords: Acousonde,Python,acoustics,oceanography
 Platform: UNKNOWN
