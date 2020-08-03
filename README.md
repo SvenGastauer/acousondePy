@@ -6,7 +6,7 @@
 - Header information is stored as csv file
 - Auxiliary data if present is concatenated into one csv file
 
-For more information on Acousonde visit the (Acousonde website)[http://www.acousonde.com/]
+For more information on Acousonde visit the [Acousonde website](http://www.acousonde.com/)
 
 Currently there are 4 functions available:
 
@@ -15,8 +15,9 @@ Currently there are 4 functions available:
 - read_multiple_MT() to read a list of MT files
 - acousonde() starts a GUI which allows you to convert slected MT files
 
+Acousonde is available on [Pypi](https://pypi.org/project/acousondePy/)
 
-A single Windows executable file of acousonde() which can be used without the need of any programming/scripting and does not require the user to have Python isnstalled can be obtained from (Sourceforge)[https://sourceforge.net/projects/acousonde2wav/].
+A single Windows executable file of acousonde() which can be used without the need of any programming/scripting and does not require the user to have Python isnstalled can be obtained from [Sourceforge](https://sourceforge.net/projects/acousonde2wav/).
 
 # Installation  
 
