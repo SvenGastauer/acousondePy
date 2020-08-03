@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: acousondePy
-Version: 0.14
+Version: 0.15
 Summary: Read and plot Acousonde MT files
 Home-page: https://github.com/SvenGastauer/acousondePy
 Author: Sven Gastauer
 Author-email: sgastauer@ucsd.edu
 License: MIT
-Download-URL: https://github.com/user/acousondePy/archive/0.14.tar.gz
+Download-URL: https://github.com/user/acousondePy/archive/0.15.tar.gz
 Description: # acousondePy
          Translate Acousonde MT files
          
@@ -15,7 +15,7 @@ Description: # acousondePy
         - Header information is stored as csv file
         - Auxiliary data if present is concatenated into one csv file
         
-        For more information on Acousonde visit the (Acousonde website)[http://www.acousonde.com/]
+        For more information on Acousonde visit the [Acousonde website](http://www.acousonde.com/)
         
         Currently there are 4 functions available:
         
@@ -24,8 +24,9 @@ Description: # acousondePy
         - read_multiple_MT() to read a list of MT files
         - acousonde() starts a GUI which allows you to convert slected MT files
         
+        Acousonde is available on [Pypi](https://pypi.org/project/acousondePy/)
         
-        A single Windows executable file of acousonde() which can be used without the need of any programming/scripting and does not require the user to have Python isnstalled can be obtained from (Sourceforge)[https://sourceforge.net/projects/acousonde2wav/].
+        A single Windows executable file of acousonde() which can be used without the need of any programming/scripting and does not require the user to have Python isnstalled can be obtained from [Sourceforge](https://sourceforge.net/projects/acousonde2wav/).
         
         # Installation  
         
