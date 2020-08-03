@@ -54,6 +54,8 @@ This software is free to use.
 
 # Examples
 
+For a full example have a look at the Notebooks in the notebook folder.
+
 ```python
 import acousondePy as ap
 import glob
