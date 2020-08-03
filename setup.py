@@ -9,11 +9,11 @@ Created on Fri Jul 31 17:35:08 2020
 from setuptools import setup
 
 setup(name='acousondePy',
-      version='0.12',
+      version='0.13',
       description='Read and plot Acousonde MT files',
       author='Sven Gastauer',
       url='https://github.com/SvenGastauer/acousondePy',
-      download_url = 'https://github.com/user/acousondePy/archive/0.12.tar.gz',
+      download_url = 'https://github.com/user/acousondePy/archive/0.13.tar.gz',
       author_email='sgastauer@ucsd.edu',
       license='MIT',
       packages=['acousondePy'],
@@ -35,4 +35,6 @@ setup(name='acousondePy',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
       ],
+      include_package_data=True,
+      package_data={'': ['data/*.MT']},
 )
