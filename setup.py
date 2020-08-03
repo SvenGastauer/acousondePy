@@ -17,7 +17,6 @@ setup(name='acousondePy',
       author_email='sgastauer@ucsd.edu',
       license='MIT',
       packages=['acousondePy'],
-      version = '0.1',
       keywords = ['Acousonde', 'Python', 'acoustics','oceanography'],
       install_requires=[
           'scipy',
